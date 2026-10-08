@@ -25,7 +25,7 @@ Inbox and calendar management, scheduling, research, lead research and list buil
 ## Featured work
 
 - **HubSpot CRM Cleanup & Lead Pipeline Setup for a SaaS Business**: audited a database of 2,000+ contacts, removed duplicates and standardized fields.
-- - **HubSpot CRM Practice Project**: a membership business CRM built in my own HubSpot account with sample data.
+- **HubSpot CRM Practice Project**: a membership business CRM built in my own HubSpot account with sample data.
 ## Tools
 
 HubSpot, WordPress, Elementor, WooCommerce, PHP, JavaScript, CSS, n8n, ManyChat, Google Workspace, Microsoft 365, Salesforce, Notion, ClickUp, Trello, Asana, Slack, Canva, Excel, basic SQL, ChatGPT, Claude
